@@ -9,7 +9,6 @@
 import UIKit
 import CoreLocation
 import Alamofire
-import GooglePlaces
 
 class WeatherViewController: UIViewController {
     
